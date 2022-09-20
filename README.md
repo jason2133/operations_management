@@ -1,5 +1,7 @@
 # Operations Management
 - Korea Univ. / Operations Management / BUSS211 / 2022 Fall
+- [Book](http://www.yes24.com/Product/Goods/78121996)
+- [Recommended Book](http://www.yes24.com/Product/Goods/19586534) 
 - Lecture by Prof. Daeki Kim, Korea University Business School
 
 ## Lecture
