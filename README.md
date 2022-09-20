@@ -12,4 +12,4 @@
 ## Assignment
 |Num|Assignment|
 |:------:|:-----:|
-|1|1|
+|1|Customer Experience</br>Postponement Strategy|
