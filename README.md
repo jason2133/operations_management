@@ -19,3 +19,4 @@
 |Num|Assignment|
 |:------:|:-----:|
 |1|Customer Experience</br>Postponement Strategy|
+|2|Toyota Recall</br>Disruptive Technology - IoT, AR, VR, 3D printing|
