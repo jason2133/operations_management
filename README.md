@@ -14,6 +14,7 @@
 |5|제품 및 서비스 설계|
 |6|프로세스 설계와 배치|
 |7|생산능력계획 및 입지계획|
+|8|Midterm Exam|
 
 ## Assignment
 |Num|Assignment|
