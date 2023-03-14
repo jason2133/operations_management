@@ -18,6 +18,9 @@
 |Special Topic|[The Goal (Eliyahu M. Goldratt et al.)](http://www.yes24.com/Product/Goods/19586534)|
 |9|리소스 계획 (MRP & JIT)|
 |10|재고관리|
+|11|공급사슬관리|
+|12|서비스관리|
+|13|Smart Factory & Smart Service|
 
 ## Assignment
 |Num|Assignment|
